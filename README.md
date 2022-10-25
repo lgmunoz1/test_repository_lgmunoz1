@@ -8,12 +8,3 @@ deleted third line and then replaced it
 did this change take or not?????
 
 now i deleted one of the original lines
-
-does this overwrite what i have in git??? let's see.
-
-testing to see if i can push from remote to local
-
-now i fixed it let's see if it takes
-
-
-sdfguikolkjhgfdsfghjkl
